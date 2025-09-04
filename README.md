@@ -14,8 +14,8 @@ I'm a **Web3 + AI Software Engineer** passionate about:
 `TypeScript` `Go` `Solidity` `Next.js` ... 
 
 ## 📫 Connect with me
-- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/carmen-liu-68829b45/))
-- [Twitter/X]([https://twitter.com/your-handle](https://x.com/carmen0208))
+- [LinkedIn](https://www.linkedin.com/in/carmen-liu-68829b45/)
+- [Twitter/X](https://x.com/carmen0208)
 
 ---
 ⭐ If you like my projects, consider following me for updates!
