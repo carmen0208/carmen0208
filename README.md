@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  ![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xcarmen0208&show=reviews,discussions_started,discussions_answered&theme=transparent)
+  ![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmen0208&show=reviews,discussions_started,discussions_answered&theme=transparent)
 
 <!--
 **carmen0208/carmen0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
