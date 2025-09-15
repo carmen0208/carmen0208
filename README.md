@@ -10,6 +10,9 @@ I'm a **Web3 + AI Software Engineer** passionate about:
 - [Crypto-Stock Insights](https://crypto-stock-insights.lovable.app/) A crypto stock market insights
 - [Knowledge Visualizer](https://knowledge-visualizer.vercel.app/en) An interactive visualization hub for understanding complex blockchain concepts
 
+## Prove of Experience
+- [Arbitrage Analysis Dashboard -DEMO](https://github.com/carmen0208/arb-analysis-dashboard-demo) An showcase of the blockchain/exchange experience
+
 ## 🛠️ Tech Stack
 `TypeScript` `Go` `Solidity` `Next.js` ... 
 
