@@ -10,11 +10,35 @@ I'm a **Web3 + AI Software Engineer** passionate about:
 - [Crypto-Stock Insights](https://crypto-stock-insights.lovable.app/) A crypto stock market insights
 - [Knowledge Visualizer](https://knowledge-visualizer.vercel.app/en) An interactive visualization hub for understanding complex blockchain concepts
 
-## Prove of Experience
-- [Arbitrage Analysis Dashboard -DEMO](https://github.com/carmen0208/arb-analysis-dashboard-demo) An showcase of the blockchain/exchange experience
+## 🔍 Prove of Experience
+- [Trading Analysis Dashboard -DEMO](https://github.com/carmen0208/arb-analysis-dashboard-demo) An showcase of the blockchain/exchange experience
+- [ts-Immutable-SDK](https://github.com/immutable/ts-immutable-sdk/graphs/contributors), Key contributor of the official immutable sdk, Experience includes SDK design, wallet integration, and API abstraction for blockchain interactions.
+
+<details>
+<summary><b>Open Source Contribution Experience</b></summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Repo</th>
+        <th>PR</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ethereumjs-monorepo</a></td>
+        <td><a href="https://github.com/ethereumjs/ethereumjs-monorepo/pull/3814"></td>
+      </tr>
+      <tr>
+        <td>openai agents</td>
+        <td><a href="https://github.com/openai/openai-agents-python/pull/395"></a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 
 ## 🛠️ Tech Stack
-`TypeScript` `Go` `Solidity` `Next.js` ... 
+`TypeScript` `Go` `Solidity` `Next.js` `Nodejs`, `Java`, `Ruby`... 
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/carmen-liu-68829b45/)
