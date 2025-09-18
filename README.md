@@ -15,7 +15,7 @@ I'm a **Web3 + AI Software Engineer** passionate about:
 - [ts-Immutable-SDK](https://github.com/immutable/ts-immutable-sdk/graphs/contributors), Key contributor of the official immutable sdk, Experience includes SDK design, wallet integration, and API abstraction for blockchain interactions.
 
 <details>
-<summary><b>Open Source Contribution Experience</b></summary>
+<summary><b> - Open Source Contribution Experience</b></summary>
   <table>
     <thead>
       <tr>
@@ -26,11 +26,11 @@ I'm a **Web3 + AI Software Engineer** passionate about:
     <tbody>
       <tr>
         <td>ethereumjs-monorepo</a></td>
-        <td><a href="https://github.com/ethereumjs/ethereumjs-monorepo/pull/3814"></td>
+        <td><a href="https://github.com/ethereumjs/ethereumjs-monorepo/pull/3814">https://github.com/openai/openai-agents-python/pull/395 </a></td>
       </tr>
       <tr>
         <td>openai agents</td>
-        <td><a href="https://github.com/openai/openai-agents-python/pull/395"></a></td>
+        <td><a href="https://github.com/openai/openai-agents-python/pull/395">https://github.com/openai/openai-agents-python/pull/395</a></td>
       </tr>
     </tbody>
   </table>
